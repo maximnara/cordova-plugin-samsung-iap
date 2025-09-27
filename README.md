@@ -27,7 +27,7 @@
 ## Установка
 
 ```bash
-cordova plugin add cordova-plugin-samsung-iap
+cordova plugin add ../cordova-plugin-samsung-iap
 ```
 
 ## Быстрый старт
